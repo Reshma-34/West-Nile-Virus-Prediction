@@ -1,8 +1,8 @@
-# West-Nile-Virus-prediction
+## West Nile Virus Prediction
 Predict West Nile virus in mosquitos across the city of Chicago
 
 
-## Project description
+### Project description
 
 Given weather, location, and spraying data, this competition asked kagglers to predict when and where different species of mosquitoes will test positive for West Nile virus. The evaluation metric for prediction accuracy was ROC AUC. The data set included 8 years: 2007 to 2014. Years 2007, 2009, 2011 and 2013 were used for training while remaining four years were included in test data.
 
